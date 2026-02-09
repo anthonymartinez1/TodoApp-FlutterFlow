@@ -742,7 +742,7 @@ class _LoginWidgetState extends State<LoginWidget>
                                                               .labelMedium
                                                               .fontStyle,
                                                     ),
-                                            hintText: 'Social Media...',
+                                            hintText: 'Occupation...',
                                             hintStyle:
                                                 FlutterFlowTheme.of(context)
                                                     .labelLarge
